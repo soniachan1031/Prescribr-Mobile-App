@@ -16,6 +16,34 @@ PrescribrApp is a comprehensive medication management application that helps use
 - **Cross-device Sync**: Your data syncs across all your devices
 - **Voice Interaction**: Full speech recognition and text-to-speech capabilities
 
+## Security
+
+### API Key Security
+
+This project uses environment variables to manage API keys and sensitive configuration data:
+
+1. All API keys are stored in a `.env` file that is not committed to version control
+2. A `.env.example` file is provided as a template for setting up your own environment variables
+3. Firebase API keys are loaded dynamically through environment variables at runtime
+
+### API Key Rotation Process
+
+If you need to rotate your Firebase API keys (e.g., after a security incident):
+
+1. Generate new API keys in the Firebase console
+2. Update your `.env` file with the new keys
+3. Revoke the old API keys in the Firebase console
+4. Deploy your updated application
+
+### Securing Configuration Files
+
+The following files contain sensitive information and should never be committed to public repositories:
+
+- `.env` - Contains all API keys and sensitive configuration
+- `lib/utils/api_keys.dart` - Contains API keys for external services
+- `android/app/google-services.json` - Contains Firebase configuration for Android
+- `ios/Runner/GoogleService-Info.plist` - Contains Firebase configuration for iOS
+
 ## Technology Stack
 
 - **Frontend**: Flutter (Dart)
