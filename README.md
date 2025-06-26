@@ -110,6 +110,7 @@ PrescribrApp is a comprehensive medication management application that helps use
 - Valentine
 - Ridoy
 - Farrukh 
+
 This project is associated with Conestoga College – PROG2435 Programming Mobile Applications I Final Project Assignment.
 
 ## License
