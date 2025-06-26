@@ -86,27 +86,27 @@ PrescribrApp is a comprehensive medication management application that helps use
 <div align="center">
 
 ### Login & Account Setup
-<img src="screenshots/login.png" alt="Login Screen" width="250">
+<img src="https://github.com/user-attachments/assets/e2c6bd3e-e815-4cb7-aea8-dccd9ddb5b24" alt="Login Screen" width="250">
 
 ### Home Screen
-<img src="screenshots/home.png" alt="Home Screen" width="250">
+<img src="https://github.com/user-attachments/assets/607bc242-ccce-4f3e-b76f-a683f72f0de4" alt="Home Screen" width="250">
 
 ### Add Medication
-<img src="screenshots/add_medication.png" alt="Add Medication" width="250">
+<img src="https://github.com/user-attachments/assets/b442c4a0-4806-4008-8706-4dbfa8ffa8d0" alt="Add Medication" width="250">
+
 
 ### My Medications
-<img src="screenshots/my_medications.png" alt="My Medications" width="250">
+<img src="https://github.com/user-attachments/assets/c90a6292-06d3-4c41-acc6-1f1d12d1d89d" alt="My Medications" width="250">
 
 ### Medication Details
-<img src="screenshots/medication_details.png" alt="Medication Details" width="250">
+<img src="https://github.com/user-attachments/assets/3262f2a0-1ffb-4177-95ef-342b3b0ea40b" alt="Add Medication" width="250">
 
 ### Zira AI Assistant
-<img src="screenshots/zira_ai.png" alt="Zira AI Assistant" width="250">
+<img src="https://github.com/user-attachments/assets/e3c7f7ce-7db3-45ba-99b4-1947fa4b893b" alt="Zira AI Assistant" width="250">
 </div>
 
 ## Authors
 - Shong Chan
 
 ## License
-
 This project is licensed under the MIT License - see the LICENSE file for details.
