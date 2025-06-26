@@ -1,7 +1,7 @@
 # PrescribrApp
 
 <div align="center">
-  <img src="![Prescribr-96x96](https://github.com/user-attachments/assets/de8caf04-60e9-4547-8c18-4c2bfc918968)" alt="PrescribrApp Logo" width="150">
+  <img src="https://github.com/user-attachments/assets/de8caf04-60e9-4547-8c18-4c2bfc918968" alt="PrescribrApp Logo" width="150">
 </div>
 
 PrescribrApp is a comprehensive medication management application that helps users track their medications, set reminders, and receive guidance through an AI assistant. The app supports Android, iOS, and web platforms, providing a seamless cross-platform experience.
